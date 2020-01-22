@@ -2,8 +2,6 @@
 <DOCTYPE HTML>
 <html>
 <head>
- <style>
-   h1 {color:
 <h1>Jordan Treleven</h1>
 </head>
 <body>
