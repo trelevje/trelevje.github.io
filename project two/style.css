@@ -1,0 +1,36 @@
+.masthead {
+  height: 25vh;
+  min-height: 300px;
+  background-image:url(header%202.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color:green;
+}
+h3 {
+    color:darkslategrey;
+}
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: darkgreen;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkgreen;
+}
+
+/* selected link */
+a:active {
+  color:cadetblue;
+}
